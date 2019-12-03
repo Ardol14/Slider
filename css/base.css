@@ -174,7 +174,7 @@ a:focus {
 @media screen and (min-width: 53em) {
 	.frame {
 		position: fixed;
-		text-align: left;
+		text-align: center;
 		z-index: 10000;
 		top: 0;
 		left: 0;
