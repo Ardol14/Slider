@@ -131,6 +131,10 @@ a:focus {
 	align-items: center;
 }
 
+.content h2{
+	-webkit-text-stroke: 2px black;
+}
+
 .content__title {
 	position: relative;
 	color: var(--color-title);
